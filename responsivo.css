@@ -1,0 +1,17 @@
+@media (max-width: 425px) {
+    .logo {
+        max-width: 300px;
+    }
+
+    .container-input {
+        max-width: 300px;
+    }
+
+    .container-password {
+        max-width: 300px;
+    }
+
+    .title {
+        font-size: 24px;
+    }
+}
